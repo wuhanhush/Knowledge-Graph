@@ -13,13 +13,13 @@
 
 **[2]** [Keras](https://keras.io/)
 
-**[3]** [Theano]()
+**[3]** [Theano](http://www.deeplearning.net/software/theano/)
 
-**[4]** [Caffe]()
+**[4]** [Caffe](http://caffe.berkeleyvision.org/)
 
-**[5]** [Mexnet]()
+**[5]** [Mxnet](http://mxnet.io/)
 
-**[6]** [Torch]()
+**[6]** [Torch](http://torch.ch/)
 
 # Blog
 
