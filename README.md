@@ -37,9 +37,14 @@
 # Machine Learning
 
 ## 1.0 Libary
+
 **[1]** [scikit-learn](http://scikit-learn.org/stable/index.html)
 
 **[2]** [t-SNE](http://lvdmaaten.github.io/tsne/)
+
+## 2.0 Tutorial
+
+**[3]** [python-machine-learning-book代码](https://github.com/rasbt/python-machine-learning-book)
 
 
 
